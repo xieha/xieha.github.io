@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://xieha.github.io/sitemap.xml
