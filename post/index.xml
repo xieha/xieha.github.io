@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Roxo | Creative Design Agency</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Roxo | Creative Design Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Mar 2018 23:16:44 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[更新]Hexo&#43;Github建立与部署博客站点</title>
+      <link>http://example.org/post/%E6%9B%B4%E6%96%B0-hexo-github%E5%BB%BA%E7%AB%8B%E4%B8%8E%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9-/</link>
+      <pubDate>Tue, 20 Mar 2018 23:16:44 +0000</pubDate>
+      
+      <guid>http://example.org/post/%E6%9B%B4%E6%96%B0-hexo-github%E5%BB%BA%E7%AB%8B%E4%B8%8E%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9-/</guid>
+      <description>什么是Hexo ？## 什么是Github？## 百度百科，解释如下：
+由于自己搭建Hexo踩了不少坑，为了减少其他小伙伴踩坑。也对Hexo和Github搭建博客的一个总结，分享一些经验。
+配置与安装 准备工具
+ 安装Git到本地电脑  安装Node.js到本地电脑  注册完之后，新建项目，这里注意下，项目名称必须和子域名一样，例如，我的用户名是xieha，那么我的就是xieha.github.io。
+配置Git 之后是配置github用户信息，在本地电脑桌面右键Git，名称是：Git bash here，打开之后是个命令窗口，输入如下命令：
+$ git config --global user.name &amp;quot;xieha&amp;quot; ---这是用户名 $ git config --global user.</description>
+    </item>
+    
+    <item>
+      <title>小米手环4NFC版开箱</title>
+      <link>http://example.org/post/%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF4nfc%E7%89%88%E5%BC%80%E7%AE%B1/</link>
+      <pubDate>Tue, 20 Mar 2018 23:16:44 +0000</pubDate>
+      
+      <guid>http://example.org/post/%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF4nfc%E7%89%88%E5%BC%80%E7%AE%B1/</guid>
+      <description>小米手环4NFC版开箱
+　很久之前就想拥有一个手环，那时候看上小米手环3，奈何外观感觉不好看，一直没入手。然不久前小米更新了小米手环版本，推出了小米手环4，刚看到的时候，有点惊艳，感觉很好看，想入手，抢了好几次，都抢不到，官网一直断货状态，无奈，放弃了。
+　在816购物节的时候，上去看了下，居然现货购买，果断入手。等了2天，终于到货啦。
+小米手环4 NFC版主要有以下特性：
+50米防水，支持游泳🏊
+支持刷公交，模拟门卡
+支持支付宝离线支付
+支持闹钟，表盘更换
+微信提醒，来电提醒
+…等等诸多功能
+标配是一个充电器，一个手环，一张说明书
+屏幕是彩屏，比上一代好看多了。
+拆开来是这样的。
+小米手环4的主题，也是蛮多的。
+第一次买手环，用一段时间再来说说用户体验吧。
+更新于2019.8.29 00：25
+WeLog</description>
+    </item>
+    
+  </channel>
+</rss>
