@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Roxo | Creative Design Agency</title>
-    <link>http://example.org/post/</link>
+    <link>https://weiyansuo.com/post/</link>
     <description>Recent content in Posts on Roxo | Creative Design Agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 23:16:44 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Mar 2018 23:16:44 +0000</lastBuildDate><atom:link href="https://weiyansuo.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[更新]Hexo&#43;Github建立与部署博客站点</title>
-      <link>http://example.org/post/%E6%9B%B4%E6%96%B0-hexo-github%E5%BB%BA%E7%AB%8B%E4%B8%8E%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9-/</link>
+      <link>https://weiyansuo.com/post/%E6%9B%B4%E6%96%B0-hexo-github%E5%BB%BA%E7%AB%8B%E4%B8%8E%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9-/</link>
       <pubDate>Tue, 20 Mar 2018 23:16:44 +0000</pubDate>
       
-      <guid>http://example.org/post/%E6%9B%B4%E6%96%B0-hexo-github%E5%BB%BA%E7%AB%8B%E4%B8%8E%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9-/</guid>
+      <guid>https://weiyansuo.com/post/%E6%9B%B4%E6%96%B0-hexo-github%E5%BB%BA%E7%AB%8B%E4%B8%8E%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9-/</guid>
       <description>什么是Hexo ？## 什么是Github？## 百度百科，解释如下：
 由于自己搭建Hexo踩了不少坑，为了减少其他小伙伴踩坑。也对Hexo和Github搭建博客的一个总结，分享一些经验。
 配置与安装 准备工具
@@ -23,10 +23,10 @@ $ git config --global user.name &amp;quot;xieha&amp;quot; ---这是用户名 $ g
     
     <item>
       <title>小米手环4NFC版开箱</title>
-      <link>http://example.org/post/%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF4nfc%E7%89%88%E5%BC%80%E7%AE%B1/</link>
+      <link>https://weiyansuo.com/post/%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF4nfc%E7%89%88%E5%BC%80%E7%AE%B1/</link>
       <pubDate>Tue, 20 Mar 2018 23:16:44 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF4nfc%E7%89%88%E5%BC%80%E7%AE%B1/</guid>
+      <guid>https://weiyansuo.com/post/%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF4nfc%E7%89%88%E5%BC%80%E7%AE%B1/</guid>
       <description>小米手环4NFC版开箱
 　很久之前就想拥有一个手环，那时候看上小米手环3，奈何外观感觉不好看，一直没入手。然不久前小米更新了小米手环版本，推出了小米手环4，刚看到的时候，有点惊艳，感觉很好看，想入手，抢了好几次，都抢不到，官网一直断货状态，无奈，放弃了。
 　在816购物节的时候，上去看了下，居然现货购买，果断入手。等了2天，终于到货啦。
