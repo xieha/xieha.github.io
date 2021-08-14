@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Roxo | Creative Design Agency</title>
+    <title>Roxo Blog on 味研所 | 一家专注于茶饮与简餐</title>
     <link>https://weiyansuo.com/post/</link>
-    <description>Recent content in Posts on Roxo | Creative Design Agency</description>
+    <description>Recent content in Roxo Blog on 味研所 | 一家专注于茶饮与简餐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 23:16:44 +0000</lastBuildDate><atom:link href="https://weiyansuo.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://weiyansuo.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[更新]Hexo&#43;Github建立与部署博客站点</title>
       <link>https://weiyansuo.com/post/%E6%9B%B4%E6%96%B0-hexo-github%E5%BB%BA%E7%AB%8B%E4%B8%8E%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9-/</link>
