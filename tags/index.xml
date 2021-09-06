@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 味研所 | 一家专注于茶饮与简餐</title>
-    <link>https://weiyansuo.com/tags/</link>
-    <description>Recent content in Tags on 味研所 | 一家专注于茶饮与简餐</description>
+    <title>Tags on 味研所|专注于简餐和茶饮</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on 味研所|专注于简餐和茶饮</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 23:16:44 +0000</lastBuildDate><atom:link href="https://weiyansuo.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>手环</title>
-      <link>https://weiyansuo.com/tags/%E6%89%8B%E7%8E%AF/</link>
-      <pubDate>Tue, 20 Mar 2018 23:16:44 +0000</pubDate>
-      
-      <guid>https://weiyansuo.com/tags/%E6%89%8B%E7%8E%AF/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
